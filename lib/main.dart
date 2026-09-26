@@ -60,7 +60,7 @@ class HomeScreen extends StatelessWidget {
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
                       Text(
-                        'Good Morning,',
+                        'Good Evening,',
                         style: TextStyle(
                           fontSize: 14,
                           color: Colors.grey,
@@ -69,7 +69,7 @@ class HomeScreen extends StatelessWidget {
                       ),
                       SizedBox(height: 4),
                       Text(
-                        'Aman',
+                        'Nemat',
                         style: TextStyle(
                           fontSize: 28,
                           fontWeight: FontWeight.bold,
